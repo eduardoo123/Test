@@ -5,7 +5,7 @@
     border: 1px solid #ccc;
     padding: 10px;
     margin: 10px;
-    background: #8BA9E8;
+    background: rgb(8, 79, 231);
     border-radius: 10px;
 }
 
@@ -13,9 +13,17 @@
     border: 1px solid #ccc;
     padding: 10px;
     margin: 10px;
-    background: #7623b9;
+    background: #b95f23;
     border-radius: 10px;
 }
+.classeteste{
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin: 15px;
+    background: #f17611;
+    border-radius: 10px;
+}
+
 
 .box {
     width: 90%;
