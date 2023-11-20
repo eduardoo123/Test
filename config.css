@@ -2,10 +2,10 @@
 /*define a borda, padding, cor de fundo e arredondamento de borda do conteiner*/
 
 .cont {
-    border: 1px solid #FAF204;
+    border: 1px solid #9EED74;
     padding: 10px;
     margin: 10px;
-    background:  #DB1001;
+    background:  #4EB5EB;
     border-radius: 10px;
 }
 
@@ -13,7 +13,7 @@
     border: 1px solid #0096FA;
     padding: 10px;
     margin: 10px;
-    background: #F8F7F0;
+    background: #FAF204;
     border-radius: 10px;
 }
 .classeteste{
